@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jakezuke, otherwise known as Jake, a designer and business builder
+- 👋 Hi, I’m @jakez, otherwise known as Jake, a designer and business builder
 - 👀 I’m interested in _really designing_ (meaning UX and business design, not pure UI design or visual design) products and services that customers old and new will love
 - 🌱 I’m currently building an astrology product with [@treshenry](https://github.com/treshenry) called [Cosmic Plumbing](https://www.linkedin.com/company/cosmic-plumbing/)
 - 💞️ I’m looking to collaborate with folks who truly understand what a good designer can bring
